@@ -1,4 +1,4 @@
-# ASSIGNMENT 3: Module 4: Task_1and_2
+# ASSIGNMENT 3: Module 4: Task_1_and_2
 # Task1: Factorial of any number
 n=int(input('Enter the number: '))
 def factorial(n):
