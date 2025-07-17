@@ -1,9 +1,6 @@
-# Assignment3_Task-1-2
-ASSIGNMENT 3: Module 4: Functions &amp; Modules in Python
-# Factorial of any number
-
+ASSIGNMENT 3: Module 4: Task_1and_2
+# Task1: Factorial of any number
 n=int(input('Enter the number: '))
-
 def factorial(n):
     if n<2:
         return 1
@@ -12,8 +9,7 @@ def factorial(n):
 result = factorial(n)
 print(f'The factorial of {n} is: {result}')
 
-# Use of modules in python
-
+#  Task2: Use of modules in python
 n=int(input('Enter the number: '))
 from math import *
 print(sqrt(n))
